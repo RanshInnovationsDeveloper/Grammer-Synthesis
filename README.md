@@ -110,7 +110,7 @@ Explore the `Grammar_Synthesis_Application.ipynb` notebook for testing the GEC a
 ## Flask API
 Run flask application
 ```
-main.py
+python3 main.py
 ```
 Test flask application
 ```
