@@ -1,0 +1,7 @@
+Flask
+requests
+nltk
+transformers
+ipython
+spellchecker
+gunicorn
