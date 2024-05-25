@@ -5,3 +5,4 @@ transformers
 ipython
 spellchecker
 gunicorn
+pyspellchecker

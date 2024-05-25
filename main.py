@@ -181,6 +181,10 @@ def paraphrase(text,num_beams=5,num_beam_groups=5,repetition_penalty=10.0,
     return paraphrased_paragraph
 
 
+@app.route('/')
+def index():
+    return "Congratulations! Your model has run successfully."
+
 
 @app.route('/correct_text', methods=['POST'])
 def correct_text():
