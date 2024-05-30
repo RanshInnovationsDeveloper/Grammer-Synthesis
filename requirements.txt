@@ -7,7 +7,6 @@ spellchecker
 gunicorn
 pyspellchecker
 # PyTorch
-tensorflow
 torch
 torchvision
 torchaudio
