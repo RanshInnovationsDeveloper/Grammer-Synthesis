@@ -6,3 +6,5 @@ ipython
 spellchecker
 gunicorn
 pyspellchecker
+# PyTorch
+tensorflow
